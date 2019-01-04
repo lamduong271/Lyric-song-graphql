@@ -4,7 +4,12 @@
 }
 .material-icons{
     cursor: pointer;
+    margin-right: 5px;
 }
 .material-icons:hover{
     color: pink;
+}
+.vote-box{
+    display: flex;
+    align-items: center;
 }
